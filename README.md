@@ -1,2 +1,0 @@
-# iOS_BuDeJie
-## OC
